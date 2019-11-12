@@ -1,4 +1,6 @@
-# fluent-logger-golang-example
+# fluent-logger-io-writer
+
+**Note:** This library was created to demonstrate a somewhat experimental idea. If you end up using it (or write your own similar code), [please plus one this issue to let me know](https://github.com/PettitWesley/fluent-logger-io-writer/issues/1).
 
 Go Code that wraps the fluent-logger-golang in a struct that implements [io.Writer](https://golang.org/pkg/io/).
 
